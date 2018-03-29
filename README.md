@@ -74,7 +74,7 @@ En relación al servicio ofertado versus la realidad se especifica que no cumple
 
  ![Encuestas](assets/img/encuestas.jpg)
 
-##Observaciones
+## Observaciones
 
 Mientras encuestabamos a las personas en los terminales de buses, también pudimos observar ciertas situaciones y comportamientos del lugar:
 
@@ -119,11 +119,12 @@ Considerndo todo lo que pudimos apreciar y observar, pudimos concluir lo siguien
 
 3. Existe más transparencia cuando los valores de los pasajes están publicados en algún tipo de plataforma online, ya que se democratiza la información y se saben los valores de antemano, en cambio, al ir y cotizar, los precios varían mucho entre un horario y otro sin ningún tipo de explicación, pero se obtienen más ofertas y rebajas.
 
-##Entrevista a experto
+## Entrevista a experto
 
 Alejandro Donoso, Ejecutivo de atención al cliente y Back Office de Tur Bus entre el año 2015 y 2017, respondió algunas preguntas relacionadas con reclamos de los clientes de la empresa de transportes en donde se desempeñó. Él estuvo encargado de reclamos presenciales y vía web, de responder a los clientes, contactarlos y entregarles la información necesaria a su demanda.  
 
 **¿Qué reclamos son los que más se repiten entre los clientes? **
+
 Existen 3 reclamos habituales que son atrasos de buses, suspensión de servicio y cambio de servicio. 
 Los atrasos de buses es cuando éstos no salen en su horario programado, y el período de tiempo puede ir de 5 minutos a 2 horas. 
 Suspensión de servicio es cuando se cancela la salida de un bus que ya estaba programado. Esto ocurre cuando no se completaba la venta de los asientos. Por ejemplo, un bus con capacidad para 64 personas pero solo se logran vender 50 asientos. En estos casos la empresa cancela la salida de la máquina y a los pasajeros los cambian de bus de manera arbitraria. 
@@ -131,11 +132,13 @@ Y el cambio de servicio es cuando un pasajero que compró un tipo de asiento lo 
 Otros reclamos habituales son por mala atención de parte del personal a bordo, por malos olores de los baños, y por insectos al interior del bus.  En cuanto a esto último, la falta de higiene se debe a que muchos buses al terminar un recorrido comienzan otro de inmediato, por esto no los alcanzan a limpiar ni a ventilar. Hay asientos sucios, manchados y que se desarman. En el último tiempo han sido frecuentes los reclamos por presencia de bichos en los baños, pasillos, ventanas y asientos, como cucarachas, chinches, pulgas y garrapatas.  
 
 **¿Qué vías tienen los clientes para comunicar esto a la empresa? **
+
 Existen tres vías de reclamo:
 Personal, donde deben completar un formulario de reclamo ; vía web, a través del portal donde hay disponible un formulario y un correo electrónico ; o dirigirse a entidades fiscalizadoras como el Sernac y Subsecretaría de Transportes  
 
 **¿De qué manera la empresa responde a sus clientes?**
- La manera de compensar al consumidor del servicio es por un sistema de puntos (pesos) “Tur Club”, que se acumulan a la cuenta del pasajero. Con esos puntos pueden comprar pasajes dentro de la misma compañía.  La empresa jamás va a devolver dinero, a menos que exista alguna acción penal que obligue a la empresa.  
+ 
+La manera de compensar al consumidor del servicio es por un sistema de puntos (pesos) “Tur Club”, que se acumulan a la cuenta del pasajero. Con esos puntos pueden comprar pasajes dentro de la misma compañía.  La empresa jamás va a devolver dinero, a menos que exista alguna acción penal que obligue a la empresa.  
 Los pasajeros reclaman ante esta situación y la empresa solo responde que pueden hacer denuncia judicial a las entidades correspondientes, pero eso significa que el cliente tendrá que contratar un abogado y estar un largo tiempo en esos trámites, y que por el monto que se está exigiendo muchas veces no vale la pena (considerando los altos costos de una asesoría legal). 
 A Tur Bus estos reclamos los hace más fuertes, les conviene que los buses se atrasen o que les den un asiento equivocado porque a la hora de responder, hacen que el dinero y el pasaje permanezca con ellos; el sistema de puntos que tienen hace eso, el objetivo de ese método es que el pasajero no pueda recibir de vuelta su dinero y que deba consumir otro viaje en el futuro con ellos. Fuerza a sus clientes y los retiene.  
 
@@ -147,4 +150,4 @@ Las sanciones de tipo monetaria ocurren solamente cuando hay accidentes y se ha 
 **¿La empresa ha hecho algún cambio por cuenta propia de sus políticas internas? **
 El único cambio que realizaron fue tras el accidente ocurrido en la Autopista del Sol el año 2010 donde hubo 20 muertos. Tiempo después de ese hecho, Tur Bus determinó cancelar la ruta a San Antonio, debido a que los buses eran apedreados por la gente en la carretera. 
 
-##Benchmark
+## Benchmark
