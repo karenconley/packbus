@@ -2,7 +2,7 @@
 
 Packbus es una app móvil para comprar paquetes de pasajes en buses interurbanos al mejor precio. Además no necesitas imprimir tu pasaje: descarga el código QR, muéstralo al subir al bus y listo.
 
-
+![proyecto-header-packbus](https://user-images.githubusercontent.com/32284471/38099023-ea95ed16-334f-11e8-96ca-b733d0b137a9.jpg)
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
