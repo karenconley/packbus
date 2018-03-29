@@ -201,6 +201,19 @@ Precios bajos | Porque viaja recurrentemente y necesita ahorrar | Qué pasarí
 Imprimir su pasaje | Para subir al bus y no tiene donde imprimir | Qué  pasaría si... creamos boletos digitales y presenta solo el celular?
 Saber de los atrasos e información del viaje | Porque está en su derecho y las compañías no comunican nada | Qué pasaría si... ofrecemos notificaciones con información?
 
+## User Person
+
+Creamos varios User Person con diferentes cosas que los caracterizan, como el cliente informado, el cliente frecuente y el exigente.
+
+Finalmente nos quedamos con Leandro, el pasajero trabajador y frecuente, como nuestro User principal.
+
+![User](assets/img/User-Leandro-trabajador.pdf)
+![User](assets/img/User-Andrea-exigente.pdf)
+![User](assets/img/User-Sandra-informada.pdf)
+
+## Storytelling y Customer Journey Map
+
+
 
 
 
