@@ -6,7 +6,7 @@ Packbus es una app móvil para comprar paquetes de pasajes en buses interurbanos
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
-#El reto
+# El reto
 
 El reto que se nos planteó se titulaba "Nueva experiencia en empresas de buses". La situación era la siguiente: nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 
@@ -14,9 +14,9 @@ Luego de vivir todo esto, Catalina está pensando en emprender en este sector. P
 
 Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversión y así obtener el financiamiento necesario para emprender su negocio y mejorar la experiencia en este rubro.
 
-#Research
+# Research
 
-##Entrevistas y encuestas
+## Entrevistas y encuestas
 
 Nuestro squad, conformado por 6 integrantes, se dividió las tareas. Un grupo fue a terreno a los terminales de buses a consultar directamente a los usuarios que viajan.
 
