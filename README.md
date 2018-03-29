@@ -6,7 +6,7 @@ Packbus es una app móvil para comprar paquetes de pasajes en buses interurbanos
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
-# El reto
+# I. El reto
 
 El reto que se nos planteó se titulaba "Nueva experiencia en empresas de buses". La situación era la siguiente: nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 
@@ -14,7 +14,7 @@ Luego de vivir todo esto, Catalina está pensando en emprender en este sector. P
 
 Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversión y así obtener el financiamiento necesario para emprender su negocio y mejorar la experiencia en este rubro.
 
-# Research
+# II. Research
 
 ## Entrevistas y encuestas
 
@@ -111,8 +111,7 @@ Preguntamos en varias ventanillas a los vendedores con respecto a los pasajes y 
 4. Si decides comprar con anticipación te hacen un pequeño descuento.
 5. Se cobra extra en caso de que lleves equipaje de más (como cajas, bultos, etc.). En algunas líneas nos contestaron que dependía de la tripulación si es que aceptaban.
 
-
-###Conclusiones de observaciones
+Considerndo todo lo que pudimos apreciar y observar, pudimos concluir lo siguiente:
  
 1. En TERMINAL DE BUSES ESTACIÓN CENTRAL existen muchas líneas de buses pequeñas, que no tienen servicio online ni otros medios de pago que no sean efectivo, por lo que los clientes deben, primero, ir a cotizar y buscar su pasaje para luego ir nuevamente el día que deben viajar, lo que considera un gasto de dinero y tiempo.
 
@@ -120,5 +119,12 @@ Preguntamos en varias ventanillas a los vendedores con respecto a los pasajes y 
 
 3. Existe más transparencia cuando los valores de los pasajes están publicados en algún tipo de plataforma online, ya que se democratiza la información y se saben los valores de antemano, en cambio, al ir y cotizar, los precios varían mucho entre un horario y otro sin ningún tipo de explicación, pero se obtienen más ofertas y rebajas.
 
+##Entrevista a experto
 
+Alejandro Donoso, Ejecutivo de atención al cliente y Back Office de Tur Bus entre el año 2015 y 2017, respondió algunas preguntas relacionadas con reclamos de los clientes de la empresa de transportes en donde se desempeñó. Él estuvo encargado de reclamos presenciales y vía web, de responder a los clientes, contactarlos y entregarles la información necesaria a su demanda.  
+
+**¿Qué reclamos son los que más se repiten entre los clientes? **
+Existen 3 reclamos habituales que son atrasos de buses, suspensión de servicio y cambio de servicio. 
+Los atrasos de buses es cuando éstos no salen en su horario programado, y el período de tiempo puede ir de 5 minutos a 2 horas. 
+Suspensión de servicio es cuando se cancela la salida de un bus que ya estaba programado. Esto ocurre cuando no se completaba la venta de los asientos. Por ejemplo, un bus con capacidad para 64 personas pero solo se logran vender 50 asientos. En estos casos la empresa cancela la salida de la máquina y a los pasajeros los cambian de bus de manera arbitraria. Y el cambio de servicio es cuando un pasajero que compró un tipo de asiento lo cambian a otro inferior. Por ejemplo, una persona que pagó por un pasaje en “salón cama” y lo cambian a “semi-cama” o “clásico”. Esto puede ocurrir por algún error en la venta como pasajes duplicados o por cambio de bus. Otros reclamos habituales son por mala atención de parte del personal a bordo, por malos olores de los baños, y por insectos al interior del bus.  En cuanto a esto último, la falta de higiene se debe a que muchos buses al terminar un recorrido comienzan otro de inmediato, por esto no los alcanzan a limpiar ni a ventilar. Hay asientos sucios, manchados y que se desarman. En el último tiempo han sido frecuentes los reclamos por presencia de bichos en los baños, pasillos, ventanas y asientos, como cucarachas, chinches, pulgas y garrapatas.  ¿Qué vías tienen los clientes para comunicar esto a la empresa? Existen tres vías de reclamo:  •	Personal, donde deben completar un formulario de reclamo •	Vía web, a través del portal donde hay disponible un formulario y un correo electrónico •	O dirigirse a entidades fiscalizadoras como el Sernac y Subsecretaría de Transportes  ¿De qué manera la empresa responde a sus clientes?  La manera de compensar al consumidor del servicio es por un sistema de puntos (pesos) “Tur Club”, que se acumulan a la cuenta del pasajero. Con esos puntos pueden comprar pasajes dentro de la misma compañía.  La empresa jamás va a devolver dinero, a menos que exista alguna acción penal que obligue a la empresa.  Los pasajeros reclaman ante esta situación y la empresa solo responde que pueden hacer denuncia judicial a las entidades correspondientes, pero eso significa que el cliente tendrá que contratar un abogado y estar un largo tiempo en esos trámites, y que por el monto que se está exigiendo muchas veces no vale la pena (considerando los altos costos de una asesoría legal). A Tur Bus estos reclamos los hace más fuertes, les conviene que los buses se atrasen o que les den un asiento equivocado porque a la hora de responder, hacen que el dinero y el pasaje permanezca con ellos; el sistema de puntos que tienen hace eso, el objetivo de ese método es que el pasajero no pueda recibir de vuelta su dinero y que deba consumir otro viaje en el futuro con ellos. Fuerza a sus clientes y los retiene.  ¿Qué tipo de sanciones o multas ha recibido la empresa de parte de entidades externas? (Ministerio de Transporte, Juzgado Civil…) En el período que él estuvo en la empresa jamás escuchó de alguna sanción importante.  En febrero del año pasado hubo un accidente en una ruta hacia Mendoza, donde murieron 19 pasajeros, producto del exceso de velocidad del conductor. En un principio el Ministerio les iba a cancelar la licencia para rutas fuera de Chile, es decir, que Tur Bus solo hiciera recorridos dentro del territorio nacional, pero finalmente no quedó en nada, siguen operando tal cual.  Las sanciones de tipo monetaria ocurren solamente cuando hay accidentes y se ha llevado una denuncia vía judicial, especialmente en caso de muerte. Es la justicia la que exige a la empresa indemnizar al pasajero, de lo contrario Tur Bus por cuenta propia no lo haría.  ¿La empresa ha hecho algún cambio por cuenta propia de sus políticas internas? El único cambio que realizaron fue tras el accidente ocurrido en la Autopista del Sol el año 2010 donde hubo 20 muertos. Tiempo después de ese hecho, Tur Bus determinó cancelar la ruta a San Antonio, debido a que los buses eran apedreados por la gente en la carretera. 
 
