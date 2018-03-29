@@ -207,12 +207,47 @@ Creamos varios User Person con diferentes cosas que los caracterizan, como el cl
 
 Finalmente nos quedamos con Leandro, el pasajero trabajador y frecuente, como nuestro User principal.
 
-![User](assets/img/User-Leandro-trabajador.pdf)
-![User](assets/img/User-Andrea-exigente.pdf)
-![User](assets/img/User-Sandra-informada.pdf)
+![User](assets/img/User-Leandro-trabajador.jpg)
+![User](assets/img/User-Andrea-exigente.jpg)
+![User](assets/img/User-Sandra-informada.jpg)
 
 ## Storytelling y Customer Journey Map
 
+Relatamos un viaje común en la vida de Leandro, nuestro usuario principal, como una historia, haciéndolo más cotidiano y para alcanzar mejor nivel de empatía.
+
+![Storytelling](assets/img/Storytelling.jpg)
+
+Luego dividimos los pasos de acción de Leandro y analizamos qué sentimientos y pensamientos podría estar experimentando.
+
+![CJM](assets/img/Customer-Journey-Map.jpg)
+
+## Definición del problema
+
+**Problema:**
+
+Leandro necesita llegar temprano a su trabajo. Le ayudaría un sistema que alivie su presupuesto mensual al comprar pasajes por lotes, y además saber si hay retrasos o modificaciones en la salida de los buses.
+
+**Solución:**
+App de compra de pasajes para pasajeros frecuentes, que por motivo de fuerza mayor y de recurrencia, necesiten comprar talonarios de pasajes.
+
+**Promesas:**
+
+- Poder comparar en un sólo lugar (en línea),  las distintas ofertas (precios, horarios), y configurar sus viajes recurrentes con antelación.
+- Sistema de descuento y beneficios para viajeros frecuentes
+- Sistema de aviso de problemas en ruta, atrasos, estado del viaje, etc.
+- Para hacer más expedito, generación del pasaje vía código QR, es decir, se presenta el código al subir al bus y listo. Sin imprimir ticket.
+
+**Características:**
+- App de venta de pasajes, todo en un sólo lugar
+- Sólo para clientes frecuentes
+- Login para ver los beneficios
+- Plataforma diferentes medios de pago
+- Precio referencial unitario, para saber que comprar por talonario conviene
+- Informar oportunamente los retrasos o modificaciones de los buses.
+- Acumula puntos para viajar gratis
+- Ingreso prioritario y preferencial,  presentando código QR desde su dispositivo
+- Pueden reservar por adelantado los puestos de su talonario comprado
+- Entregar justificativos por retrasos (inspirado en Metro de Santiago)
 
 
 
