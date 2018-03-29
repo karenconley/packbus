@@ -78,7 +78,7 @@ En relación al servicio ofertado versus la realidad se especifica que no cumple
 
 Mientras encuestabamos a las personas en los terminales de buses, también pudimos observar ciertas situaciones y comportamientos del lugar:
 
-### Terminal Pajaritos (viernes 19 de enero, de 19 a 19:30 hrs aprox.)
+#### Terminal Pajaritos (viernes 19 de enero, de 19 a 19:30 hrs aprox.)
 
 1. El terminal pajaritos es un lugar de embarque a destinos cercanos (de una a dos horas de viaje aproximadamente).
 
@@ -92,7 +92,7 @@ Mientras encuestabamos a las personas en los terminales de buses, también pudim
 
 6. Las líneas de buses existentes en este terminal son Turbus, Condor, Romani, Pullman Bus y Casablanca. También hay un servicio de transporte al aeropuerto.
 
-### Terminal Alameda 
+#### Terminal Alameda 
 
 1. Cuenta con servicios de viajes a todo destino incluyendo internacional.
 
@@ -179,5 +179,28 @@ Investigamos la página web, app, redes sociales de 10 empresas de buses, identi
 En la tabla a continuación resumimos lo descubierto, concluyendo que la mayoría de las empresas tienen web, permiten la compra online y poseen redes sociales, pero más de la mitad está al debe con una app y con call center.
 
 ![Benchmarking](assets/img/Benchmark.png)
+
+# III. Definiendo el problema
+
+## Diagrama de Afinidad
+
+Luego de recopilar todas las problemáticas, inquietudes y necesidades de los usuarios, partimos por hacer un **diagrama de afinidad** para clasificarlos por temática.
+
+![Afinidad](assets/img/afinidad-1.jpeg)
+![Afinidad](assets/img/afinidad-2.jpeg)
+![Afinidad](assets/img/afinidad-3.jpeg)
+![Afinidad](assets/img/afinidad-4.jpeg)
+
+## Problem Statement
+
+Planteamos algunas de las necesidades específicas que hemos descubierto y nos enfocamos en ellas para encontrar una posible solución.
+
+¿Qué necesita | ¿Por qué? | What if...?
+Precios bajos | Porque viaja recurrentemente y necesita ahorrar | Qué pasaría si... hacemos precio por cantidad de boletos comprados?
+Imprimir su pasaje | Para subir al bus y no tiene donde imprimir | Qué  pasaría si... creamos boletos digitales y presenta solo el celular?
+Saber de los atrasos e información del viaje | Porque está en su derecho y las compañías no comunican nada | Qué pasaría si... ofrecemos notificaciones con información?
+
+
+
 
 
