@@ -196,6 +196,7 @@ Luego de recopilar todas las problemáticas, inquietudes y necesidades de los us
 Planteamos algunas de las necesidades específicas que hemos descubierto y nos enfocamos en ellas para encontrar una posible solución.
 
 ¿Qué necesita | ¿Por qué? | What if...?
+--------------|-----------|-------------
 Precios bajos | Porque viaja recurrentemente y necesita ahorrar | Qué pasaría si... hacemos precio por cantidad de boletos comprados?
 Imprimir su pasaje | Para subir al bus y no tiene donde imprimir | Qué  pasaría si... creamos boletos digitales y presenta solo el celular?
 Saber de los atrasos e información del viaje | Porque está en su derecho y las compañías no comunican nada | Qué pasaría si... ofrecemos notificaciones con información?
