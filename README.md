@@ -277,7 +277,16 @@ En esta etapa definimos la jerarquía de la información de nuestro diseño, el 
 ![Wireframe](assets/img/Wireframe-07.png)
 ![Wireframe](assets/img/Wireframe-08.png)
 
+## Prototipo
 
+![Prototipo](assets/img/Prototipo.png)
 
+El prototipo final fue el resultado de varias iteraciones, testeos con usuarios, y poniendo como contenido lo que consideramos esencial para resolver los problemas en los que nos enfocamos: venta de varios pasajes, a menor precio, información al usuario, posibilidad de abordar expeditamente y de cambiar fechas y horas de viajes.
 
+Ver prototipo completo acá: https://marvelapp.com/7gicj0e
 
+Los colores utilizados fueron escogidos de acuerdo a su significado y lo que proyectan: 
+- Azul: confianza, seguridad, lealtad, responsabilidad
+- Verde: tranquilidad, esperanza, equilibrio, estabilidad
+
+![Prototipo](assets/img/Prototipo-colores.jpeg)
