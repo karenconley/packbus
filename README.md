@@ -250,7 +250,7 @@ App de compra de pasajes para pasajeros frecuentes, que por motivo de fuerza may
 - Pueden reservar por adelantado los puestos de su talonario comprado
 - Entregar justificativos por retrasos (inspirado en Metro de Santiago)
 
-# III. Desarrollo
+# IV. Desarrollo
 
 ## Sketch
 
