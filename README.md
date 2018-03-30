@@ -264,9 +264,19 @@ Comenzamos desarrollando la idea de app con un sketch a lápiz y papel. Creamos 
 
 ## Wireframe
 
-Luego de iterar y corregir, vino la etapa de diseño de wireframes, un modelo simple, en blanco y negro de lo que sería el prototipo final. En esta etapa definimos nuevamente flujo de navegación, distribución de la información, diseño, categorías, etc... y volvimos a testear.
+Luego de iterar y corregir, vino la etapa de diseño de wireframes, un modelo simple, en blanco y negro de lo que sería el prototipo final. 
+
+En esta etapa definimos la jerarquía de la información de nuestro diseño, el flujo de navegación, categorías, relaciones entre las diferentes plantillas de pantallas, etc... y volvimos a testear.
 
 ![Wireframe](assets/img/Wireframe-01.png)
+![Wireframe](assets/img/Wireframe-02.png)
+![Wireframe](assets/img/Wireframe-03.png)
+![Wireframe](assets/img/Wireframe-04.png)
+![Wireframe](assets/img/Wireframe-05.png)
+![Wireframe](assets/img/Wireframe-06.png)
+![Wireframe](assets/img/Wireframe-07.png)
+![Wireframe](assets/img/Wireframe-08.png)
+
 
 
 
