@@ -228,6 +228,7 @@ Luego dividimos los pasos de acción de Leandro y analizamos qué sentimientos y
 Leandro necesita llegar temprano a su trabajo. Le ayudaría un sistema que alivie su presupuesto mensual al comprar pasajes por lotes, y además saber si hay retrasos o modificaciones en la salida de los buses.
 
 **Solución:**
+
 App de compra de pasajes para pasajeros frecuentes, que por motivo de fuerza mayor y de recurrencia, necesiten comprar talonarios de pasajes.
 
 **Promesas:**
@@ -249,6 +250,23 @@ App de compra de pasajes para pasajeros frecuentes, que por motivo de fuerza may
 - Pueden reservar por adelantado los puestos de su talonario comprado
 - Entregar justificativos por retrasos (inspirado en Metro de Santiago)
 
+# III. Desarrollo
+
+## Sketch
+
+Comenzamos desarrollando la idea de app con un sketch a lápiz y papel. Creamos las secciones, las ventanas de navegación y el flujo. Una vez realizado, probamos con usuarios para recibir feedback y ver qué tenemos que corregir o cambiar.
+
+![Sketch](assets/img/sketch-1.jpeg)
+![Sketch](assets/img/sketch-2.jpeg)
+![Sketch](assets/img/sketch-3.jpeg)
+![Sketch](assets/img/sketch-4.jpeg)
+![Sketch](assets/img/sketch-5.jpeg)
+
+## Wireframe
+
+Luego de iterar y corregir, vino la etapa de diseño de wireframes, un modelo simple, en blanco y negro de lo que sería el prototipo final. En esta etapa definimos nuevamente flujo de navegación, distribución de la información, diseño, categorías, etc... y volvimos a testear.
+
+![Wireframe](assets/img/Wireframe-01.png)
 
 
 
