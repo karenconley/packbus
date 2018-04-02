@@ -6,7 +6,7 @@ Packbus es una app móvil para comprar paquetes de pasajes en buses interurbanos
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
-# I. El reto
+## I. El reto
 
 El reto que se nos planteó se titulaba "Nueva experiencia en empresas de buses". La situación era la siguiente: nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 
@@ -14,9 +14,9 @@ Luego de vivir todo esto, Catalina está pensando en emprender en este sector. P
 
 Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversión y así obtener el financiamiento necesario para emprender su negocio y mejorar la experiencia en este rubro.
 
-# II. Research
+## II. Research
 
-## Entrevistas y encuestas
+### Entrevistas y encuestas
 
 Nuestro squad, conformado por 6 integrantes, se dividió las tareas. Un grupo fue a terreno a los terminales de buses a consultar directamente a los usuarios que viajan.
 
@@ -74,7 +74,7 @@ En relación al servicio ofertado versus la realidad se especifica que no cumple
 
  ![Encuestas](assets/img/encuestas.jpg)
 
-## Observaciones
+### Observaciones
 
 Mientras encuestabamos a las personas en los terminales de buses, también pudimos observar ciertas situaciones y comportamientos del lugar:
 
@@ -119,7 +119,7 @@ Considerando todo lo que pudimos apreciar y observar, pudimos concluir lo siguie
 
 3. Existe más transparencia cuando los valores de los pasajes están publicados en algún tipo de plataforma online, ya que se democratiza la información y se saben los valores de antemano, en cambio, al ir y cotizar, los precios varían mucho entre un horario y otro sin ningún tipo de explicación, pero se obtienen más ofertas y rebajas.
 
-## Entrevista a experto
+### Entrevista a experto
 
 Alejandro Donoso, Ejecutivo de atención al cliente y Back Office de Tur Bus entre el año 2015 y 2017, respondió algunas preguntas relacionadas con reclamos de los clientes de la empresa de transportes en donde se desempeñó. Él estuvo encargado de reclamos presenciales y vía web, de responder a los clientes, contactarlos y entregarles la información necesaria a su demanda.  
 
@@ -180,9 +180,9 @@ En la tabla a continuación resumimos lo descubierto, concluyendo que la mayorí
 
 ![Benchmarking](assets/img/Benchmark.png)
 
-# III. Definiendo el problema
+## III. Definiendo el problema
 
-## Diagrama de Afinidad
+### Diagrama de Afinidad
 
 Luego de recopilar todas las problemáticas, inquietudes y necesidades de los usuarios, partimos por hacer un **diagrama de afinidad** para clasificarlos por temática.
 
@@ -191,7 +191,7 @@ Luego de recopilar todas las problemáticas, inquietudes y necesidades de los us
 ![Afinidad](assets/img/afinidad-3.jpeg)
 ![Afinidad](assets/img/afinidad-4.jpeg)
 
-## Problem Statement
+### Problem Statement
 
 Planteamos algunas de las necesidades específicas que hemos descubierto y nos enfocamos en ellas para encontrar una posible solución.
 
@@ -201,7 +201,7 @@ Precios bajos | Porque viaja recurrentemente y necesita ahorrar | Qué pasarí
 Imprimir su pasaje | Para subir al bus y no tiene donde imprimir | Qué  pasaría si... creamos boletos digitales y presenta solo el celular?
 Saber de los atrasos e información del viaje | Porque está en su derecho y las compañías no comunican nada | Qué pasaría si... ofrecemos notificaciones con información?
 
-## User Person
+### User Person
 
 Creamos varios User Person con diferentes cosas que los caracterizan, como el cliente informado, el cliente frecuente y el exigente.
 
@@ -211,7 +211,7 @@ Finalmente nos quedamos con Leandro, el pasajero trabajador y frecuente, como nu
 ![User](assets/img/User-Andrea-exigente.jpg)
 ![User](assets/img/User-Sandra-informada.jpg)
 
-## Storytelling y Customer Journey Map
+### Storytelling y Customer Journey Map
 
 Relatamos un viaje común en la vida de Leandro, nuestro usuario principal, como una historia, haciéndolo más cotidiano y para alcanzar mejor nivel de empatía.
 
@@ -221,7 +221,7 @@ Luego dividimos los pasos de acción de Leandro y analizamos qué sentimientos y
 
 ![CJM](assets/img/Customer-Journey-Map.jpg)
 
-## Definición del problema
+### Definición del problema
 
 **Problema:**
 
@@ -250,9 +250,9 @@ App de compra de pasajes para pasajeros frecuentes, que por motivo de fuerza may
 - Pueden reservar por adelantado los puestos de su talonario comprado
 - Entregar justificativos por retrasos (inspirado en Metro de Santiago)
 
-# IV. Desarrollo
+## IV. Desarrollo
 
-## Sketch
+### Sketch
 
 Comenzamos desarrollando la idea de app con un sketch a lápiz y papel. Creamos las secciones, las ventanas de navegación y el flujo. Una vez realizado, probamos con usuarios para recibir feedback y ver qué tenemos que corregir o cambiar.
 
@@ -262,7 +262,7 @@ Comenzamos desarrollando la idea de app con un sketch a lápiz y papel. Creamos 
 ![Sketch](assets/img/sketch-4.jpeg)
 ![Sketch](assets/img/sketch-5.jpeg)
 
-## Wireframe
+### Wireframe
 
 Luego de iterar y corregir, vino la etapa de diseño de wireframes, un modelo simple, en blanco y negro de lo que sería el prototipo final. 
 
@@ -277,7 +277,7 @@ En esta etapa definimos la jerarquía de la información de nuestro diseño, el 
 ![Wireframe](assets/img/Wireframe-07.png)
 ![Wireframe](assets/img/Wireframe-08.png)
 
-## Prototipo
+### Prototipo
 
 ![Prototipo](assets/img/Prototipo.png)
 
